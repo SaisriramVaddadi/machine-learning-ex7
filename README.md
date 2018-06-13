@@ -1,1 +1,1 @@
-# machine-learning-ex7
+# machine-learning-ex6
